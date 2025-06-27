@@ -1,5 +1,4 @@
-## Hi there 👋 
-I'm AARON THOMPSON KING
+## Hi there 👋 I'M AARON THOMPSON KING
 
 <!--
 **KLEMATK/KLEMATK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
